@@ -28,4 +28,4 @@ For your workflow, think about backing it up to git or github. Your local hacky 
 
 
 
-Thank you to Sam Hames @scmHames for the file format - https://resbaz.github.io/resbaz2018/brisbane/talks/Hames.pdf 
+Thank you to  @micahgallen for the file format - https://twitter.com/micahgallen/status/1001362580710088704?s=19
