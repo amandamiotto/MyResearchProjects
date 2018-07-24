@@ -1,13 +1,7 @@
 Readme.txt
 -----------
 
-This is a document to summarize your project and any notes on the project overall. 
-
-Raw Data
----------
-
-Please list where you got your raw data.
-
+This is a premade file and folder format for new and ongoing researchers. Download using the "Clone or Download" button on the upper right hand side of the screen.
 
 Naming conventions
 -------------------
@@ -27,5 +21,7 @@ Workflow/Code versioning
 For your workflow, think about backing it up to git or github. Your local hacky hour can help you out pick a git repository. Discuss with your copyright staff on the best licence for your code if you are putting your workflow on a public repository
 
 
+Attribution
+------------
 
 Thank you to  @micahgallen for the file format - https://twitter.com/micahgallen/status/1001362580710088704?s=19
