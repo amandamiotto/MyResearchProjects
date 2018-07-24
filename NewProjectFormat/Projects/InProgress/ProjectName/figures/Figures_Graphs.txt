@@ -1,0 +1,4 @@
+Figures and Graphs
+------------------
+
+A place to store your figures and graphs created.

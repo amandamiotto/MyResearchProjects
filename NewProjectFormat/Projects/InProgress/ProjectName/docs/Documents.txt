@@ -1,0 +1,4 @@
+Documents
+----------
+
+A place to store your documents. It could include manuals for the analysis program you are using, research papers that are useful etc.
