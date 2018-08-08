@@ -21,6 +21,33 @@ Workflow/Code versioning
 For your workflow, think about backing it up to git or github. Your local hacky hour can help you out pick a git repository. Discuss with your copyright staff on the best licence for your code if you are putting your workflow on a public repository
 
 
+What's in this Directory
+-------------------------
+Listed below:
+
+./NewProjectFormat
+./NewProjectFormat/Projects
+./NewProjectFormat/Projects/Submitted
+./NewProjectFormat/Projects/Submitted/Projects_Submitted_For_publication.txt
+./NewProjectFormat/Projects/Published
+./NewProjectFormat/Projects/Published/Published_Research_Projects.txt
+./NewProjectFormat/Projects/InProgress
+./NewProjectFormat/Projects/InProgress/ProjectName
+./NewProjectFormat/Projects/InProgress/ProjectName/figures
+./NewProjectFormat/Projects/InProgress/ProjectName/figures/Figures_Graphs.txt
+./NewProjectFormat/Projects/InProgress/ProjectName/data
+./NewProjectFormat/Projects/InProgress/ProjectName/data/working
+./NewProjectFormat/Projects/InProgress/ProjectName/data/working/WorkingData.txt
+./NewProjectFormat/Projects/InProgress/ProjectName/data/raw
+./NewProjectFormat/Projects/InProgress/ProjectName/data/raw/RawData.txt
+./NewProjectFormat/Projects/InProgress/ProjectName/code_and_workflows
+./NewProjectFormat/Projects/InProgress/ProjectName/code_and_workflows/Code_and_Workflows.txt
+./NewProjectFormat/Projects/InProgress/ProjectName/README.txt
+./NewProjectFormat/Projects/InProgress/ProjectName/docs
+./NewProjectFormat/Projects/InProgress/ProjectName/docs/Documents.txt
+
+
+
 Attribution
 ------------
 
