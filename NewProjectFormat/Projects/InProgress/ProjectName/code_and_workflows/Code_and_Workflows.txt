@@ -1,0 +1,3 @@
+Where you can store your saved workflows or code. Don't forget to save these using git.
+
+If you would like to learn about Git, check out http://swcarpentry.github.io/git-novice/ or https://help.github.com/articles/git-and-github-learning-resources/
