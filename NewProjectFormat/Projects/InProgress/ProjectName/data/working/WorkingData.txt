@@ -1,6 +1,9 @@
 Working data
 -----------
 
+It's best to have this syncing to cloud storage like Research Space.
+
+You could document:
 How does your working data correlate to your workflows? 
 What program did you run?
 What version?
