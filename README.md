@@ -43,7 +43,7 @@ Listed below:
 ./NewProjectFormat/Projects/InProgress/ProjectName/data/raw/RawData.txt
 ./NewProjectFormat/Projects/InProgress/ProjectName/code_and_workflows
 ./NewProjectFormat/Projects/InProgress/ProjectName/code_and_workflows/Code_and_Workflows.txt
-./NewProjectFormat/Projects/InProgress/ProjectName/README.txt
+./NewProjectFormat/Projects/InProgress/ProjectName/README.md
 ./NewProjectFormat/Projects/InProgress/ProjectName/docs
 ./NewProjectFormat/Projects/InProgress/ProjectName/docs/Documents.txt
 
