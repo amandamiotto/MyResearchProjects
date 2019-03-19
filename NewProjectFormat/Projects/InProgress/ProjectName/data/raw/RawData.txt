@@ -2,3 +2,5 @@ Raw Data
 ----------
 
 Where is your raw data from?
+
+VERY IMPORTANT: Back this folder up on cloud storage (like Research Vault) so you always have one spare copy of your raw data
