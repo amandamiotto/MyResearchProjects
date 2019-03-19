@@ -1,4 +1,4 @@
-# Readme.txt
+# Readme
 
 
 This is a premade file and folder format for new and ongoing researchers. Download using the "Clone or Download" button on the upper right hand side of the screen.
