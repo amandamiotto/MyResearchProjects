@@ -1,10 +1,10 @@
-Readme.txt
------------
+#Readme.txt
+
 
 This is a premade file and folder format for new and ongoing researchers. Download using the "Clone or Download" button on the upper right hand side of the screen.
 
-Naming conventions
--------------------
+### Naming conventions
+
 
 Here's some great resources on naming your files: 
 
@@ -15,14 +15,15 @@ Its worth also review ANDS 23 data things:
 https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23
 
 
-Workflow/Code versioning
-----------------
+### Workflow/Code versioning
+
 
 For your workflow, think about backing it up to git or github. Your local hacky hour can help you out pick a git repository. Discuss with your copyright staff on the best licence for your code if you are putting your workflow on a public repository
 
 
-What's in this Directory
--------------------------
+### What's in this Directory
+
+
 Listed below:
 
 ./NewProjectFormat
@@ -46,9 +47,11 @@ Listed below:
 ./NewProjectFormat/Projects/InProgress/ProjectName/docs
 ./NewProjectFormat/Projects/InProgress/ProjectName/docs/Documents.txt
 
+### How is this page so pretty
 
+I used markdown. Its just a text file but with the extention .md . (You can learn more here)[https://guides.github.com/features/mastering-markdown/]
 
-Attribution
-------------
+### Attribution
+
 
 Thank you to  @micahgallen for the file format - https://twitter.com/micahgallen/status/1001362580710088704?s=19
